@@ -149,3 +149,12 @@ x509.genkey
 
 # vendor device tree directories
 arch/arm/boot/dts/vendor
+
+# Build artifact
+GatoKernel*.zip
+
+# Clang directory
+clang-*/
+
+# Kernel building script
+build.sh
